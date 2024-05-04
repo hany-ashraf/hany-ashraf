@@ -1,56 +1,26 @@
-# Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
 
-## Awesome GitHub profiles
-
-[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
-
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
-
+<h1 align="center">Hi, I'm Hany Ashraf 👋</h1>
 <p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/open-source-green" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/check_it-out-blue" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built_by-developers-yellow" alt="built by developers badge" />
- </a>
-</p>
+    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
+Junior Test Engineer with a demonstrated work history in a smart meters company.
 
-1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
+My Skills:
+• Selenium WebDriver, REST Assured, Postman, Cucumber, TestNG
+• Scrum, Agile, Software Development lifecycle
+• Java, JSON, XML, Gherkin
+• Jenkins CI
+• GitHub, Git, Maven.
+• Jira.
+• SQL Databases.
 
-2. Fork the project, using the top right corner button, that states `fork`
+- 🔭 I'm a software tester [@Deliveryhero](https://www.deliveryhero.com/) in ESMC, Egypt
+- 🔍 I have 2 years of experience in testing firmware and web apps: 
 
-3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
-
-> <span style="color: #606c71">Your entry should be similar to this example:</span>
-
-```json
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-```
-
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
-
-## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
-
-## Our Pledge
-
-We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
-
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).
+- 💬 Ask me about **ReactJs and Frontend**
